@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Packages
+vendor/
+
+# Object files
+*.o
+
+# Dependency files
+Gopkg.lock
+Gopkg.toml
+
+# Test generated files
+_coverage
+_test/
+test.out
+
+# Editor backup files
+*~
